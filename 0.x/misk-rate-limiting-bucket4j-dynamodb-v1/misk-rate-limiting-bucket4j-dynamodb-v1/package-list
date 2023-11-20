@@ -1,0 +1,8 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.ratelimiting.bucket4j.dynamodb.v1////PointingToDeclaration/misk-rate-limiting-bucket4j-dynamodb-v1/misk.ratelimiting.bucket4j.dynamodb.v1/index.md
+$dokka.location:misk.ratelimiting.bucket4j.dynamodb.v1/DynamoDbV1Bucket4jRateLimiterModule///PointingToDeclaration/misk-rate-limiting-bucket4j-dynamodb-v1/misk.ratelimiting.bucket4j.dynamodb.v1/-dynamo-db-v1-bucket4j-rate-limiter-module/index.md
+$dokka.location:misk.ratelimiting.bucket4j.dynamodb.v1/DynamoDbV1Bucket4jRateLimiterModule/DynamoDbV1Bucket4jRateLimiterModule/#kotlin.String/PointingToDeclaration/misk-rate-limiting-bucket4j-dynamodb-v1/misk.ratelimiting.bucket4j.dynamodb.v1/-dynamo-db-v1-bucket4j-rate-limiter-module/-dynamo-db-v1-bucket4j-rate-limiter-module.md
+$dokka.location:misk.ratelimiting.bucket4j.dynamodb.v1/DynamoDbV1Bucket4jRateLimiterModule/providedRateLimiter/#java.time.Clock#com.amazonaws.services.dynamodbv2.AmazonDynamoDB#io.micrometer.core.instrument.MeterRegistry/PointingToDeclaration/misk-rate-limiting-bucket4j-dynamodb-v1/misk.ratelimiting.bucket4j.dynamodb.v1/-dynamo-db-v1-bucket4j-rate-limiter-module/provided-rate-limiter.md
+misk.ratelimiting.bucket4j.dynamodb.v1
+

@@ -1,0 +1,8 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.ratelimiting.bucket4j.mysql////PointingToDeclaration/misk-rate-limiting-bucket4j-mysql/misk.ratelimiting.bucket4j.mysql/index.md
+$dokka.location:misk.ratelimiting.bucket4j.mysql/MySQLBucket4jRateLimiterModule///PointingToDeclaration/misk-rate-limiting-bucket4j-mysql/misk.ratelimiting.bucket4j.mysql/-my-s-q-l-bucket4j-rate-limiter-module/index.md
+$dokka.location:misk.ratelimiting.bucket4j.mysql/MySQLBucket4jRateLimiterModule/MySQLBucket4jRateLimiterModule/#kotlin.reflect.KClass[kotlin.Annotation]#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/misk-rate-limiting-bucket4j-mysql/misk.ratelimiting.bucket4j.mysql/-my-s-q-l-bucket4j-rate-limiter-module/-my-s-q-l-bucket4j-rate-limiter-module.md
+$dokka.location:misk.ratelimiting.bucket4j.mysql/MySQLBucket4jRateLimiterModule/providedRateLimiter/#java.time.Clock#com.google.inject.Injector#io.micrometer.core.instrument.MeterRegistry/PointingToDeclaration/misk-rate-limiting-bucket4j-mysql/misk.ratelimiting.bucket4j.mysql/-my-s-q-l-bucket4j-rate-limiter-module/provided-rate-limiter.md
+misk.ratelimiting.bucket4j.mysql
+
